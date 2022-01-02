@@ -74,7 +74,7 @@ End Code
             <a href="/Employees">
                 <button type="button" class="cancelbutton"><span uk-icon="arrow-left"></span> Back</button>
             </a>
-            <a href="/Employees/Edit/@Model.DepartmentId">
+            <a href="/Employees/Edit/@Model.EmployeeId">
                 <button type="submit" class="anotherbutton" value="Save">Edit</button>
             </a>
         </div>
